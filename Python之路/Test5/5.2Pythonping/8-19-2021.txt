@@ -1,0 +1,12 @@
+AS of 8-19-2021 21-40-42
+
+There are totally 28 ports avaiable in the network.
+4 ports are currently up.
+Port up rate is 14.29%
+******************************
+AS of 8-19-2021 21-41-11
+
+There are totally 28 ports avaiable in the network.
+4 ports are currently up.
+Port up rate is 14.29%
+************************************************************
